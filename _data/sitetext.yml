@@ -35,7 +35,7 @@ en: &DEFAULT_EN
       text: "Stay in the loop with my newsletter"   
       email-placeholder: "Enter your email ..."
       email-validation: "Please enter your email address."
-      subject: "Melissa Than's Newsletter Sign-up"
+      subject: "Melissa Ren's Newsletter Sign-up"
       submit: "Subscribe"
 
     social:
